@@ -1,0 +1,11 @@
+Semester,Jenis,Program,Judul,Pembimbing
+2024/2025-2,Skripsi,Teknik Komputer Paralel,Implementasi Data Exfiltration pada Sistem Air Gap Menggunakan USB Arduino Micro ATMega32u4 dan LED-Based Binary Encoding dengan Ekstraksi Data Melalui Video CCTV,"Yan Maraden, S.T., M.T., M.Sc."
+2024/2025-2,Skripsi,Teknik Komputer Reguler,Pengembangan Sistem Deteksi Intrusi Jaringan Berbasis Machine Learning yang Terintegrasi dengan Wazuh dan Zeek,"Yan Maraden, S.T., M.T., M.Sc."
+2024/2025-2,Skripsi,Teknik Komputer Reguler,DYNAMIT: Sistem Honeynet Adaptif Berbasis T-Pot dengan Clustering K-Medoids untuk Pembuatan Profil Honeypot Dinamis,"Yan Maraden, S.T., M.T., M.Sc."
+2024/2025-2,Skripsi,Teknik Komputer Reguler,Evaluasi Keamanan Dan Performa Enkripsi End-To-End Menggunakan Algoritma Hybrid Elliptic Curve Diffie-Hellman Dan Advanced Encryption Standard Pada Cloud Storage,"Dr. Ir. Muhammad Salman, ST, MIT"
+2024/2025-2,Skripsi,Teknik Komputer Reguler,Analisis Penggunaan Sistem Deteksi Intrusi (IDS) Berbasis Algoritma Machine Learning Klasifikasi dengan Dataset UNSW-NB15 dan NSL-KDD,"Dr. Ir. Muhammad Salman, ST, MIT"
+2024/2025-2,Skripsi,Teknik Komputer Reguler,"Rancang Bangun Fitur Data Loss Prevention untuk Mendeteksi Data Pribadi Saat Transit Berdasarkan Undang Undang Pelindungan Data Pribadi Menggunakan Zeek, Apache Tika, dan Model Fine-Tuned BERT","Dr. Ir. Muhammad Salman, ST, MIT"
+2024/2025-2,Skripsi,Teknik Elektro Reguler,Analisis Perbandingan Performa Sel Surya Perovskite Dengan Dua Lapisan TiO2: Compact Dan Mesoporus Sebagai Electron Transport Layer,"Prof. Dr. Ir. Nji Raden Poespawati, MT., IPU."
+2024/2025-2,Skripsi,Teknik Komputer Reguler,Analisis Kerentanan Aplikasi Web dengan Pendekatan Uji Penetrasi Menggunakan Kerangka Kerja OWASP WSTG v4.2,"Dr. Ir. Muhammad Salman, ST, MIT"
+2024/2025-2,Skripsi,Teknik Komputer Paralel,Analisis Komparatif Alat Penetration Testing Berbasis Large Language Model: HackingBuddyGPT dan PentestGPT Untuk Deteksi Kerentanan Pada Sistem Operasi Linux,"Dr. Ir. Muhammad Salman, ST, MIT"
+2024/2025-2,Skripsi,Teknik Elektro Reguler,Analisis Pengaruh Arus Harmonik Terhadap Rugi Daya dan Susut Umur pada Transformator Stasiun MRT Bundaran HI PT. MRT Jakarta,"Prof. Ir. Rinaldy Dalimi, M.Sc. Ph.D."
